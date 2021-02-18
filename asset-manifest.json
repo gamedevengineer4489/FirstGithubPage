@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FirstGithubPage/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/FirstGithubPage/static/js/main.6d12f3e8.chunk.js",
+    "main.js.map": "/FirstGithubPage/static/js/main.6d12f3e8.chunk.js.map",
+    "runtime-main.js": "/FirstGithubPage/static/js/runtime-main.6405cd0d.js",
+    "runtime-main.js.map": "/FirstGithubPage/static/js/runtime-main.6405cd0d.js.map",
+    "static/js/2.65ce986a.chunk.js": "/FirstGithubPage/static/js/2.65ce986a.chunk.js",
+    "static/js/2.65ce986a.chunk.js.map": "/FirstGithubPage/static/js/2.65ce986a.chunk.js.map",
+    "static/js/3.1dd2da28.chunk.js": "/FirstGithubPage/static/js/3.1dd2da28.chunk.js",
+    "static/js/3.1dd2da28.chunk.js.map": "/FirstGithubPage/static/js/3.1dd2da28.chunk.js.map",
+    "index.html": "/FirstGithubPage/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/FirstGithubPage/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.65ce986a.chunk.js.LICENSE.txt": "/FirstGithubPage/static/js/2.65ce986a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FirstGithubPage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6405cd0d.js",
+    "static/js/2.65ce986a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6d12f3e8.chunk.js"
+  ]
+}
